@@ -1,0 +1,100 @@
+Source,Order,country,requirements,requirements1,requirements2,duration,qual,degree,Asterisk,Notes
+redcap2018,,Algeria,Medical school,,,48,Physician specialist,Physician specialist,,
+redcap2018,,Algeria,Nursing degree,,,36,Other,Certificate,,
+redcap2018,87,Angola,Nursing diploma,,,36,Other,Diploma,,
+redcap2018,163,Angola,Medical school,,,48,Physician specialist,Physician specialist,,
+redcap2018,90,Benin,Nursing diploma,,,24,Master's degree,Master's degree,,"3 programs currently available in Burundi: INSS, Mwaro, and Hope Africa University"
+AAAC,79,Benin,Medical school,,,48,Physician specialist,Physician specialist,,
+redcap2018,,Botswana,Nursing degree,,,12,Other,Diploma,,
+redcap2018,,Botswana,Medical school,,,48,Physician specialist,Physician specialist,,
+AAAC,72,Burkina Faso,Nursing degree,,,24,Other,Diploma,,
+redcap2018,167,Burkina Faso,Medical school,,,48,Physician specialist,Physician specialist,,
+redcap2018,130,Burundi,Secondary school,,,42,Bachelor's degree,Bachelor's degree,,"Senior Anesthesia Technicians - There are 3 of the above mentioned programs currently available in Burundi: INSS, Mwaro, and Hope Africa University"
+redcap2018,168,Burundi,Medical school,,,60,Physician specialist,Physician specialist,,"First year, 3 residents enrolled 2018"
+redcap2018,169,Cabo Verde,,,,,No programs,No programs,,
+Fred,,Cameroon,Medical school,,,60,Physician specialist,Physician specialist,,
+AAAC,76,Cameroon,Nursing diploma,,,24,Other,Diploma,,
+redcap2018,94,Central African Republic,Nursing diploma,,,24,Unverified,Master's degree,Unclear if this program exists,CONFLICTS WITH EUGENE WHO SAYS THERE IS NOTHING. Single source of data; dependent on foreign faculty/benin. confirmed no physician training.
+redcap2018,95,Chad,,,,,No programs,No programs,,We have a comment about a private school that is note recognized by in country anesthetists. Who is it recognized by?
+Manual,,Comoros,,,,,No programs,No programs,,
+redcap2018,96,Congo (Brazzaville),Nursing diploma,,,24,Other,See note,,Assistant sanitaire en anesthésie-réanimation
+redcap2018,97,Cote D'Ivoire,Nursing diploma,,,36,Other,Diploma,,"Original survey reported 24 months, but phone states 36 months"
+redcap2018,173,Cote D'Ivoire,Medical school,,,48,Physician specialist,Physician specialist,,
+,,Dijbouti,,,,,No programs,,,NONE - via REDCAP doc in Somalia
+original,11,DRC,Nursing diploma,Medical technology institute,,9,Other,Diploma,,Does this exist?
+redcap2018,99,DRC,Nursing diploma,,,36,Other,Diploma,,
+redcap2018,175,DRC,Medical school,,,60,Physician specialist,Physician specialist,,Was duplicate entry in redcap 2018 with transposed data #29 adn 30 in redcap2018
+redcap2018,,Egypt,Medical school,,,48,Physician specialist,Physician specialist,,
+,,Equatorial Guinea,,,,,No data,,,
+redcap2018,100,Eritrea,Nursing diploma,,,36,Other,Diploma,,confirmed no physician training
+redcap2018,101,Ethiopia,Nursing diploma,,,12,Other,Certificate,,
+redcap2018,140,Ethiopia,Bachelor's degree,,,24,Master's degree,Master's degree,,
+redcap2018,177,Ethiopia,Medical school,,,36,Physician specialist,Physician specialist,,
+redcap2018,139,Ethiopia,Secondary school,,,48,Bachelor's degree,Bachelor's degree,,
+redcap2018,103,Gabon,Nursing diploma,,,36,Master's degree,Master's degree,,"original said a certificate, phone said masters"
+redcap2018,179,Gabon,Medical school,,,48,Physician specialist,Physician specialist,,
+original,18,Gambia,Nursing diploma,,,,Bachelor's degree,Bachelor's degree,,confirmed no physician training.
+AAAC,74,Ghana,Nursing diploma,Physician assistant,,24,Bachelor's degree,Bachelor's degree,,"Used to be an advanced diploma as well, but now on BSc"
+Fred,,Ghana,Medical school,,,36,Physician specialist,Physician specialist,,See Fred's email/whatsapp screenshot
+redcap2018,104,Guinea,,,,,No programs,No programs,,Bachelors to start in 2018
+redcap2018,182,Guinea-Bissau,,,,,No programs,No programs,,
+AAAC,80,Kenya,Diploma in clinical medicine,,,18,Other,Advanced diploma,,"degree = Diploma ""CO-Anesthetists"""
+original,27,Kenya,Nursing degree,,,24,Other,KRNA,,Newton's program
+fred,,Kenya,Medical school,,,48,Physician specialist,Physician specialist,,
+redcap2018,107,Lesotho,,,,,No programs,No programs,,"Old program closed 10 years ago, planning to open new NPA training program 2018-19"
+redcap2018,108,Liberia,Nursing diploma,,,24,Other,Diploma,,must be a registered nurse by any means/degree: diploma or university. confirmed no physician training
+,,Libya,,,,,No data,,,
+,,Madagascar,Nursing degree,,,24,Master's degree,Master's degree,,
+,,Madagascar,Secondary school,,,36,Unverified,License vs Bachelors?,Degree may be a License or Bachelors,
+,,Madagascar,Medical school,,,48,Physician specialist,Physician specialist,,
+redcap2018,109,Malawi,Nursing diploma,Clinical officer,medical assistant certificate,18,Other,Diploma,,
+redcap2018,,Malawi,Diploma in anesthesia,,,36,Bachelor's degree,Bachelor's degree,,
+redcap2018,185,Malawi,Medical school,,,48,Physician specialist,Physician specialist,,
+redcap2018,110,Mali,Nursing diploma,,,24,Unverified,Diploma (Masters),"Likely diploma program, a Master's program may also exist",
+redcap2018,186,Mali,Medical school,,,48,Physician specialist,Physician specialist,,
+,,Mauritania,Nursing diploma,,,24,Other,Technicien superieur d'anesthésie,,
+redcap2018,,Mauritania,Medical school,,,48,Physician specialist,Physician specialist,,
+original,33,Mauritius,Medical school,,,,Physician specialist,Physician specialist,,"no npa, phys specialist as per original survey"
+,,Morocco,"Baccalaureate degree required (non nursing), then take exam to enter nurse institute)",,,36,Bachelor's degree,Bachelor's degree,,New
+redcap2018,,Morocco,Medical school,,,48,Physician specialist,Physician specialist,"Baccalaureate degree required, then take exam to enter med school,",
+redcap2018,111,Mozambique,Nursing diploma,,,24,Bachelor's degree,Bachelor's degree,,
+redcap2018,187,Mozambique,Medical school,,,48,Physician specialist,Physician specialist,,
+,,Namibia,Medical school,,,6,Other,Physician diploma in anesthesia,"also present in namibia: 3 day course for nurses, non indepdent providers; nurse assistant in anesthesia, not accredited",Colleges of Medicine of South Africa credentials the program; they are not registered with Namibia Health Prof Council (HPCNA). need to have spent 6 months in an accredited hospital (only windhoek right now eligible). must be signed off by consultants before able to write exam. limited scope of practice
+redcap2018,188,Namibia,Medical school,,,48,Physician specialist,Physician specialist,,First year of the program
+redcap2018,114,Niger,Nursing diploma,,,36,Other,Licence,License program to be replaced by Master degree in 2018,
+,,Nigeria,Medical school,,,36,Other,Physician diploma in anesthesia,,This is a non specialist physician cadre; Physician diploma is 12 months
+AAAC,78,Nigeria,Nursing degree,,,24,Other,Certificate,,Require full supervision by physician
+,,Nigeria,Medical school,,,72,Physician specialist,Physician specialist," With 3 years of Anaesthesia training, and sits for the Part 1 Fellowship exams, he can exist with a Membership in Anaesthesia. completes the 6 years Fellowship Programme, that means he passed Part 1 Fellowship exams and Part 2 Fellowship exams with a dissertation, he gets the Fellowship in Anaesthesia. Only Fellows can be appointed as academic staff in a university and appointed as Honorary Consultant at the University Teaching Hospital",added based on Bisola's talk at AAU
+,,Rwanda,Diploma in anesthesia,,,18,Bachelor's degree,Bachelor's degree,,"Bridge program, or 2 years as per emmanuel ladislaus at COSECSA?"
+,,Rwanda,Secondary school,,,36,Other,Diploma in Anaesthesia,,"Nursing diploma, 3yrs after secondary school is now phased out; but can go on to get bachelors"
+redcap2018,191,Rwanda,Medical school,,,48,Physician specialist,Physician specialist,,?Mmed
+redcap2018,153,Rwanda,Secondary school,,,48,Bachelor's degree,Bachelor's degree,,Secondary school prereq with specific training on math and sciences
+,,Sao Tome,,,,,No data,,,
+redcap2018,116,Senegal,Nursing diploma,,,24,Other,Diploma,,only one data source
+redcap2018,192,Senegal,Medical school,,,48,Physician specialist,Physician specialist,,
+,,Seychelles,,,,,No data,,,
+AAAC,85,Sierra Leone,Nursing diploma,,,12,Other,Certificate,,"What is the anesthesia technician program; started in 2017? entry = nursing certificate, State enrolled community health nurse SECHN,"
+AAAC + Redcap,83,Sierra Leone,Nursing diploma,,,18,Other,Diploma,,
+,,Sierra Leone,Medical school,,,,Physician specialist,Physician specialist,,New 2018
+redcap2018,,Somalia,,,,,No programs,No programs,,Is an on the job informal training program by the turkish government
+redcap2018,118,Somaliland,Nursing degree,Midwife,Pharmacist,18,Other,Nurse anesthetist,,**NOT CURRENTLY RUNNING due to lack of funds; no. confirmed no physicians
+AAAC,75,South Africa,Medical school,,,6,Other,Diploma in Anaesthesia,,
+,,South Africa,Medical school,,,48,Physician specialist,Physician specialist,,
+original,51,South Sudan,Nursing diploma,,,24,Other,Diploma,,confirmed no physicians
+Fred,,Sudan,Medical school,,,48,Physician specialist,Physician specialist,,as per fred's email
+AAAC,71,Sudan,Secondary school,,,48,Bachelor's degree,Bachelor's degree,,
+original,52,Swaziland,Nursing degree,,,24,Bachelor's degree,Bachelor's degree,,
+original,55,Tanzania,Nursing diploma,,,12,Other,Certificate,,"Prereq - ""Secondary School 0 or A level then 2 years general nursing"" What nursing degree is a prereq? Can on get a nursing degreee without secondary school? Have assumed this means nursing diploma. Being phased out; A level, % yrs med school, one year internship then 3-4 yrs anesthesia"
+AAAC,82,Tanzania,2yrs as Assisstant medical officer (general) and 2yrs clinical officer training,,,24,Other,Diploma,,Being phased out
+,,Tanzania,Medical school,,,42,Physician specialist,Physician specialist,,
+redcap2018,119,Togo,Nursing diploma,,,24,Master's degree,Master's degree,,"This program is new. Former program were accepting student from college to be trained for licence of anesthesia. This is a strengthening program, doesnt produce new anesthetists."
+redcap2018,,Tunisia,Secondary school,,,36,Other,Diploma,,
+redcap2018,,Tunisia,Medical school,,,60,Physician specialist,Physician specialist,,
+,,Uganda,Nursing diploma,clinical medicine,Midwife,24,Other,Advanced diploma,,
+redcap2018,196,Uganda,Medical school,,,36,Physician specialist,Physician specialist,,MMed
+redcap2018,160,Uganda,Nursing diploma,clinical medicine or advanced diploma in anesthesia,Midwife,48,Bachelor's degree,Bachelor's degree,,
+redcap2018,161,Zambia,Nursing diploma,Clinical officer degree ,,24,Other,Diploma,,?Diploma in Clinical Medicine (CO) must also have at least 2 years practice as a clinical officer; rapid explosion in size from 6-10 per year to >50
+redcap2018,199,Zambia,Medical school,,,48,Physician specialist,Physician specialist,,
+,,Zimbabwe,Medical school,,,12,Other,Diploma,,
+AAAC,73,Zimbabwe,Nursing diploma,,,12,Other,Diploma,,
+Fred,,Zimbabwe,Medical school,,,36,Physician specialist,Physician specialist,,Requirement is actually med school PLUS the 1 yr physicians diploma
